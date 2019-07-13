@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view>HelloWord</view>
+
+<view class='box'>{{value}}</view>
+
+<button size='mini' type='primary' bindtap='change'>按钮</button>
